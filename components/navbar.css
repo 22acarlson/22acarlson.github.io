@@ -1,0 +1,23 @@
+.custom-navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(245, 203, 14);
+    padding: 1rem 2rem;
+    color:#333 ;
+}
+.logo a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 1.5rem;
+}
+
+.nav-links a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
